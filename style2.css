@@ -44,7 +44,7 @@ h3{
 
 #artikel{
     background: mediumpurple;
-    padding: 40px;
+    padding: 31px;
     float: left;
     width: 900px;
 }
@@ -52,15 +52,11 @@ h3{
 .sidebar{
     float: left;
     background: lightskyblue;
-    padding: 31px;
-    width: 382px;
+    padding: 40px;
+    width: 477px;
 }
 
-.sidebar h3{
-    margin-left: 30px;
-}
-
-.sidebar p{
+.sidebar h3, p{
     margin-left: 30px;
 }
 
