@@ -1,0 +1,14 @@
+.flex-container{
+    display: flex;
+    background-color: dodgerblue;
+    justify-content: end;
+    gap: 50px; 
+    /* gap akan ditambahkan dengan padding tiap element sehingga jarak antar element saat ini adalah 70 px*/
+}
+
+.flex-container > div{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
