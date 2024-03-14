@@ -3,6 +3,7 @@
     background-color: dodgerblue;
     justify-content: end;
     gap: 50px; 
+    /* flex-direction: column; /*Display menjadi tidak inline (block) */
     /* gap akan ditambahkan dengan padding tiap element sehingga jarak antar element saat ini adalah 70 px*/
 }
 
