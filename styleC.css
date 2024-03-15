@@ -11,7 +11,7 @@
 
 header img{
     width: 100%;
-    height: 350px;
+    height: 214px;
 }
 
 .content{
@@ -50,6 +50,10 @@ aside img{
 main{
     padding: 30px;
     flex: 1.5;
+}
+
+main h3{
+    padding: 20px 0;
 }
 
 main table{
